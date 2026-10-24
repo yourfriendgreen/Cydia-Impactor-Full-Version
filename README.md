@@ -237,4 +237,4 @@ This repository serves as the official landing page for Cydia Impactor. The soft
 **Get the most recent version of Cydia Impactor today!**
 
 ---
-**Last updated:** 2026-10-24 17:11:28 UTC
+**Last updated:** 2026-10-24 20:12:03 UTC
